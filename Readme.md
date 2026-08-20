@@ -72,7 +72,7 @@ A desktop-based application for managing hotel operations and records.
 
 ## 🌐 Connect With Me
 
-[LinkedIn](www.linkedin.com/in/mansi-bhalkiker)
+[LinkedIn](https:www.linkedin.com/in/mansi-bhalkiker)
 
 ---
 
